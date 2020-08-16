@@ -8,7 +8,6 @@ class MusicLibraryController
   
   def call
     
-    end
   end
   
   def list_songs
