@@ -8,7 +8,7 @@ class MusicLibraryController
   
   def call
     input = gets.strip
-      
+      puts "Welcome to your music library!"
   end
   
   def list_songs
