@@ -7,7 +7,7 @@ class MusicLibraryController
   end
   
   def call
-    input = gets.strip
+    input = nil 
     while input != "exit" do
       puts "Welcome to your music library!"
       puts "To list all of your songs, enter 'list songs'."
